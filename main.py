@@ -1,4 +1,4 @@
-first = input("enter fist number : ")
+first = input("enter first number : ")
 operator = input("enter operator (+,-,*,/) : ")
 second = input("enter second number : ")
 
